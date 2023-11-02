@@ -29,6 +29,16 @@ img {
     height: 300px;
 }
 
+div{
+    border: solid 2px black;
+    margin: 2rem;
+    background-color: rgb(249, 173, 186);
+    overflow-wrap: break-word;
+    font-family: monospace;
+    display: flex;
+    justify-content: space-around;
+}
+
 body {
     background-color: rgb(241, 190, 198);
 }
