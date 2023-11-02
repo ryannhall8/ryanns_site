@@ -11,6 +11,8 @@ nav {
 section {
 border: solid 2px black;
 height: 100px;
+margin: 2rem;
+padding: 1rem;
 }
 
 img {
